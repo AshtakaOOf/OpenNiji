@@ -69,17 +69,8 @@ setTimeout(() => {
     setInterval(changeImageAndText, 5000); // Change image and text every 10 seconds
 }, 5000);
 
-
 // Add this code to the existing script.js
 // Replace the existing parallax code in script.js with this code
-
-
-// Replace the existing parallax code in script.js with this code
-// Replace the existing parallax code in script.js with this code
-
-// Replace the existing parallax code in script.js with this code
-
-
 
 //javascript for navigation bar effects on scroll
 const navSlide = () => {
